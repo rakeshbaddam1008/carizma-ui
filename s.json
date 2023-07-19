@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "query_time": "0.0012s",
+  "code": 200,
+  "message": "API OWNED AND CREATED BY LICENSEPLATEDATA.COM",
+  "requestIP": "2603:6080:4104:4216:18da:541c:81e1:16b2",
+  "query": "NJNT01:FL",
+  "request_left": 4980,
+  "licensePlateLookup": {
+    "vin": "2T2ZZMCA9KC134213",
+    "year": "2019",
+    "make": "Lexus",
+    "model": "RX",
+    "trim": "350",
+    "name": "2019 Lexus RX",
+    "engine": "3.5L V6 DOHC 24V",
+    "style": "SUV",
+    "transmission": "Automatic",
+    "driveType": "FWD",
+    "fuel": "Gasoline",
+    "color": { "name": "Silver", "abbreviation": "SIL" },
+    "image": { "imageFound": false, "url": null }
+  }
+}
